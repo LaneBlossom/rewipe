@@ -1,0 +1,54 @@
+Rewipe
+Copyright © 2026 LaneBlossom (https://github.com/LaneBlossom/rewipe). All rights reserved.
+
+【中文】
+
+本軟體（Rewipe，包含程式碼、介面設計、圖示、文件與圖片）的著作權屬於 LaneBlossom（GitHub 帳號），保留所有權利。本條款適用於 Rewipe 所有已發布及未來發布的版本。
+
+您可以：
+- 免費下載、安裝及個人使用本軟體。
+- 分享本軟體官方下載頁面的連結。
+
+未經作者書面同意，您不得：
+- 反編譯、反組譯、解開封裝（例如解開 app.asar）或以其他方式還原本軟體的原始碼。
+- 複製、修改、翻譯本軟體的全部或一部分，或以本軟體為基礎製作衍生作品。
+- 將本軟體或其任何部分（包含解開後的程式碼）交給人工智慧或其他工具分析、改寫或重製，以製作相同或類似的軟體。
+- 重新散布、轉售、出租本軟體，或將其包裝於其他軟體中散布。
+- 移除或變更本軟體中的著作權標示。
+
+本軟體依「現況」提供，不提供任何明示或默示的保證。作者不對使用本軟體造成的任何損失負責。
+
+本軟體內附的第三方元件（例如 FFmpeg、Electron 及其他開放原始碼套件）依各自的授權條款提供，不受上述限制；其授權條款隨附於安裝資料夾中。
+
+第三方聲明與免責：
+- Rewipe 是玩家自製的非官方工具，與 SQUARE ENIX CO., LTD. 及 FINAL FANTASY XIV 各地區的營運商無關，未獲其授權、贊助或認可。FINAL FANTASY、FINAL FANTASY XIV、FFXIV 及相關名稱與圖像，是 Square Enix 集團的商標或註冊商標；遊戲內的文字、名稱及其他內容的著作權屬於其權利人。
+- Rewipe 不包含、也不散布遊戲的資料檔。畫面上顯示的招式、狀態與副本名稱，是在使用者自己的電腦上，從使用者已安裝的遊戲用戶端、使用者自己的戰鬥紀錄，或 FFLogs 提供的資料讀取而來。
+- Rewipe 不修改遊戲程式或遊戲檔案，不讀寫遊戲的記憶體，也不攔截或修改遊戲的網路封包。
+- Advanced Combat Tracker（ACT）、FFXIV_ACT_Plugin、OverlayPlugin、RivaTuner Statistics Server（RTSS）與 FFLogs 是各自作者或公司的軟體與服務。Rewipe 沒有內附它們，與它們無關，也未獲其認可；Rewipe 只讀取使用者自行安裝這些軟體後產生的資料，或使用者以自己的金鑰向其服務取得的資料。使用這些軟體與服務時，請遵守其各自的條款。
+- 使用第三方工具可能違反遊戲的使用條款。是否使用本軟體及上述軟體，以及因此產生的一切後果（包含帳號受到處分），由使用者自行判斷並承擔，作者不負任何責任。
+
+【English】
+
+This software (Rewipe, including its code, interface design, icons, documentation and images) is copyright of LaneBlossom (GitHub account). All rights reserved. These terms apply to all versions of Rewipe, both already released and released in the future.
+
+You may:
+- Download, install and use this software for free for personal use.
+- Share links to the official download page.
+
+Without the author's written permission, you may not:
+- Decompile, disassemble, unpack (e.g. extract app.asar) or otherwise reverse engineer this software.
+- Copy, modify or translate this software in whole or in part, or create derivative works based on it.
+- Feed this software or any part of it (including unpacked code) to artificial intelligence or other tools to analyse, rewrite or reproduce it in order to make the same or a similar software.
+- Redistribute, sell, rent, or bundle this software with other software.
+- Remove or alter any copyright notice in this software.
+
+This software is provided "as is", without warranty of any kind, express or implied. The author is not liable for any damages arising from its use.
+
+Third-party components included with this software (such as FFmpeg, Electron and other open-source packages) are provided under their own licenses and are not subject to the restrictions above; their license texts are included in the installation folder.
+
+Third-party notices and disclaimer:
+- Rewipe is an unofficial, fan-made tool. It is not affiliated with, authorised, sponsored or endorsed by SQUARE ENIX CO., LTD. or any regional operator of FINAL FANTASY XIV. FINAL FANTASY, FINAL FANTASY XIV, FFXIV and related names and images are trademarks or registered trademarks of the Square Enix group; in-game text, names and other content are copyright of their respective owners.
+- Rewipe does not contain or distribute game data files. Action, status and duty names shown on screen are read on the user's own computer from the user's installed game client, from the user's own combat logs, or from data provided by FFLogs.
+- Rewipe does not modify the game program or game files, does not read or write the game's memory, and does not intercept or alter the game's network traffic.
+- Advanced Combat Tracker (ACT), FFXIV_ACT_Plugin, OverlayPlugin, RivaTuner Statistics Server (RTSS) and FFLogs are software and services of their respective authors or companies. Rewipe does not include them, is not affiliated with them and is not endorsed by them; it only reads data produced by those programs after the user has installed them, or data the user obtains from those services with the user's own key. Follow their respective terms when using them.
+- Using third-party tools may violate the game's terms of service. Whether to use this software and the software above, and every consequence of doing so (including action taken against a game account), is the user's own decision and responsibility; the author accepts no liability.
