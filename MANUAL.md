@@ -1,6 +1,6 @@
 # Rewipe 操作手冊
 
-> **適用版本：Rewipe 1.7.0（2026-11-18）**
+> **適用版本：Rewipe 1.7.1（2026-11-18）**
 >
 > **這一版的說明有什麼改變**：新增「[Rewink 拍照框](#rewink-拍照框)」一章：在遊戲畫面上拍照，加相框、濾鏡、貼紙，做成拍立得、雜誌封面、拍貼機和動圖；照片的版權標示。完整的更新內容見 [Releases](https://github.com/LaneBlossom/rewipe/releases/tag/v1.7.0)。
 >
