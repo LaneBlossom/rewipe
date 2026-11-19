@@ -15,7 +15,7 @@ FF14 高難副本的**錄影與復盤**。作者：LaneBlossom
 - **Rewink**：插入角色名、副本名，通關後提示拍紀念照
 - 招式與副本名稱使用遊戲內官方繁中
 
-錄影、播放與擷取片段、壓縮、Overlay 主題、Rewink 拍照框這些通用功能在 ReFlo 本體（[ReFlo 操作手冊](https://github.com/LaneBlossom/reflo/blob/main/MANUAL.md)）。FF14 功能的詳細用法（ACT 設定、FFLogs 金鑰、自動錄影、Overlay 的 DPS／團減／死因）目前在 [Rewipe 操作手冊](MANUAL.md)，裝了擴充的 ReFlo 畫面跟它一樣。
+錄影、播放與擷取片段、壓縮、Overlay 主題、Rewink 拍照框這些通用功能在 ReFlo 本體（[ReFlo 操作手冊](https://github.com/LaneBlossom/reflo/blob/main/MANUAL.md)）。FF14 功能的詳細用法（ACT 設定、自動錄影、Overlay 的 DPS／團減／死因、ACT log 和 FFLogs 復盤、FFLogs 金鑰）看 📖 [FF14 擴充操作手冊](MANUAL.md)。
 
 ## 已經在用 Rewipe？
 
