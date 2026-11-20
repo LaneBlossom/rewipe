@@ -1,8 +1,11 @@
 # Rewipe → FF14 擴充
 
+> ⚠️ **Rewipe 已經停止更新**，請改用 **[ReFlo](https://github.com/LaneBlossom/reflo/releases/latest)** ＋ **FF14 擴充**。
+> FF14 擴充的新版發布在 **[reflo-extensions](https://github.com/LaneBlossom/reflo-extensions)**（這裡只留舊版，讓還沒搬的人能用「一鍵搬家」）。
+
 FF14 高難副本的**錄影與復盤**。作者：LaneBlossom
 
-**Rewipe 現在分成兩個部分**：通用的錄影、播放、拍照程式 **[ReFlo](https://github.com/LaneBlossom/reflo)**，和裝在它裡面的 **FF14 擴充**（就是這裡）。功能跟 Rewipe 一樣，之後的更新也都在這兩個地方。
+**Rewipe 現在分成兩個部分**：通用的錄影、播放、拍照程式 **[ReFlo](https://github.com/LaneBlossom/reflo)**，和裝在它裡面的 **FF14 擴充**（說明和手冊在這裡）。功能跟 Rewipe 一樣，之後的更新也都在這兩個地方：[ReFlo](https://github.com/LaneBlossom/reflo) 和 [reflo-extensions](https://github.com/LaneBlossom/reflo-extensions)。
 
 > **Rewipe** = **Rewind**（倒帶）＋ **wipe**（滅團）——滅團了，就倒帶回去看看哪裡出錯。
 
@@ -32,7 +35,7 @@ FF14 高難副本的**錄影與復盤**。作者：LaneBlossom
 ## 新安裝
 
 1. 到 [ReFlo 的下載頁](https://github.com/LaneBlossom/reflo/releases/latest) 安裝 ReFlo。
-2. 到 👉 **[這裡的 Releases](../../releases)** 下載最新的 `ffxiv-x.x.x.reflo-ext`（標籤是 `ext-ffxiv-v…`）。
+2. 到 👉 **[reflo-extensions 的 Releases](https://github.com/LaneBlossom/reflo-extensions/releases?q=ext-ffxiv)** 下載最新的 `ffxiv-x.x.x.reflo-ext`（標籤是 `ext-ffxiv-v…`）。
 3. 打開 ReFlo，右上角 ☰ →「擴充功能」→「從檔案安裝」，或直接把 `.reflo-ext` 檔拖進 ReFlo 的視窗。
 4. 按「立即重新開啟」，錄影頁就會出現「FF14 附加功能」。
 
@@ -47,7 +50,7 @@ ReFlo 只會安裝作者簽章過的擴充檔，檔案被改過就不會安裝�
 
 ## 舊版 Rewipe
 
-Rewipe 1.x 的安裝檔還留在 [Releases](../../releases)，但之後不再更新。
+Rewipe 1.x 的安裝檔還留在 [Releases](../../releases)，但已經停止更新，也不會再修正問題。
 
 ## 授權與著作權
 
